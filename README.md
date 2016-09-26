@@ -6,7 +6,7 @@ So, I decided to make it easier for everyone to prototype with UIKit and SpriteK
 Hopefully, Apple allows Playground templates going forward. **fingers crossed**
 
 ##Installation 
-Just download the ZIP, open and get started with you're awesome prototypes!
+Just download the ZIP, open and get started with your awesome prototypes!
 
 ## How to Use
 1. Define the size of your canvas
